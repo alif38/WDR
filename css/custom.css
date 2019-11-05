@@ -1,0 +1,30 @@
+.home-article{
+    border: 1px solid lightgrey;
+    border-radius: 9px;
+    margin:0px 5px 0px 5px;
+    padding: 15px
+}
+
+.article-tile {
+    color: #74b9ff;
+}
+
+.article-span{
+    font-size: 10px;
+}
+
+.article-p2{
+    color: black;
+    font-weight: bold;
+}
+
+
+#hidden_text{
+    display: none;
+}
+
+.main_head{
+	padding:20px 10px;
+	color: grey;
+
+}
